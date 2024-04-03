@@ -1,0 +1,12 @@
+20240327	19:02:42	e050feeb-58e3-423b-8c3d-ba3487a7cea8	TypeError: undefined
+20240327	19:04:04	8dc6c1a0-b4cc-4c12-9af1-f6175365fe96	TypeError: fsPromises.readFil is not a function
+20240330	11:19:33	b2da5df0-a516-4452-ad81-4a7af42b01a3	Error: Not alllowed by CORS
+20240330	15:37:25	268f4276-8945-428f-bb07-4afe71535c1e	TypeError: Cannot read properties of undefined (reading 'lastname')
+20240330	15:37:43	367b95c0-6880-4ea8-b240-1bbf168dee49	TypeError: Cannot read properties of undefined (reading 'lastname')
+20240330	15:38:30	1dc9cd5b-49d4-4cde-964a-c9b3cdd991ba	TypeError: Cannot read properties of undefined (reading 'lastname')
+20240330	15:39:03	6c035671-bb49-4ea1-8751-77fc2caa16e3	TypeError: Cannot read properties of undefined (reading 'lastname')
+20240330	15:42:55	8f5ae67f-6b1c-4e20-9000-73402dbdbddd	TypeError: Cannot read properties of undefined (reading 'lastname')
+20240331	16:54:31	6c186860-f1e1-45a5-940f-0d530656bfa7	TypeError: Cannot read properties of undefined (reading 'filter')
+20240331	16:54:36	6396ea0d-8011-4cbb-a7d7-89e2ef38a8ab	TypeError: Cannot read properties of undefined (reading 'filter')
+20240331	16:58:24	cae4fcd4-022e-4083-86e6-73baad83bcfa	TypeError: Cannot read properties of undefined (reading 'filter')
+20240401	19:25:43	58a0efb6-0048-4cf2-a697-b01a60d304c0	SyntaxError: Unexpected end of JSON input
